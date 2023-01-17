@@ -1,0 +1,26 @@
+.heading {
+  &_one {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+    
+  }
+  &_two {
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    max-width: 100%;
+  }
+  &_three {
+    color: black;
+    background-color: orange;
+    width: 200px;
+    height: 50px;
+    padding-left: 70px;
+    padding-top: 12px;
+    margin-right: 100px;
+    border-radius: 8px;
+  }
+}
