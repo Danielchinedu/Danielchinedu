@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel! 👋
 
-I'm a passionate JavaScript developer who loves building modern web and mobile applications. I specialize in **Next.js**, **React.js**, **React Native**, **HTML**, **CSS/SCSS**, and of course, **JavaScript**. I adapt quickly to new frameworks and I'm always learning new things!
+I'm a passionate JavaScript developer who loves building modern web and mobile applications. I specialize in **Next.js**, **React.js**, **React Native**, **HTML**, **CSS/SCSS**, and **JavaScript**. I quickly adapt to new frameworks and I'm always learning new things!
 
 ---
 
@@ -20,23 +20,24 @@ I'm a passionate JavaScript developer who loves building modern web and mobile a
 
 - I love solving problems with elegant code.
 - I build responsive, user-friendly applications.
-- Always excited to explore and learn the latest in technology.
-- Passionate about creating beautiful and functional UI designs.
+- I'm always exploring new technologies and frameworks.
+- Passionate about creating clean and intuitive user interfaces.
 
 ---
 
-## 📫 How to Reach Me
+## ⚽ Fun Facts & Interests
 
-- **Email:** [your.email@example.com](mailto:chinedud767@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/chinedu-daniel-5a0596262/))
-
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielchinedu&show_icons=true&theme=radical)
+- When I'm not coding, I'm often reading tech blogs or experimenting with new programming languages.
+- I'm always on the lookout for innovative ideas that can change the way we interact with technology.
+- A proud **Chelsea fan** – cheering on the Blues is one of my favorite pastimes!
 
 ---
 
-*Let's code, learn, and grow together!*
+## 📫 Get in Touch
+
+- **Email:** [chinedud767@gmail.com](mailto:chinedud767@gmail.com)
+- **LinkedIn:** [Daniel Chinedu](https://www.linkedin.com/in/chinedu-daniel-5a0596262/)
+
+---
+
+*Let's code, learn, and have fun – both in tech and on the pitch!*
