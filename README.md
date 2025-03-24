@@ -35,8 +35,8 @@ I'm a passionate JavaScript developer who loves building modern web and mobile a
 
 ## 📫 Get in Touch
 
-- **Email:** [chinedud767@gmail.com](mailto:chinedud767@gmail.com)
-- **LinkedIn:** [Daniel Chinedu](https://www.linkedin.com/in/chinedu-daniel-5a0596262/)
+- **Email:** [Email](mailto:chinedud767@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/chinedu-daniel-5a0596262/)
 
 ---
 
